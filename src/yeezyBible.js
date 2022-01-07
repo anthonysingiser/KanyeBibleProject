@@ -25,7 +25,7 @@ const main = function async () {
     const verse = verseCheck(verseTest, maxVerse) 
         
     const bibleResponse = await fetch(
-        `http://bible-api.com/${book}+${chap}:${verse}-${verse + 1}?verse_numbers=true`
+        `https://bible-api.com/${book}+${chap}:${verse}-${verse + 1}?verse_numbers=true`
         )
         const bibleData = await bibleResponse.json()                                                                                                                                                                                                                
     return `${kanyeQuote} ${book}${chap}:${verse} ${bibleData}` 
