@@ -17,7 +17,7 @@ function App() {
   const bible = bookChapVerse(post);
 
   useEffect(() => {
-    fetch(`http://bible-api.com/${bible.book}+${bible.chap}:${bible.verse}-${bible.verse+1}?verse_numbers=true`)
+    fetch(`https://bible-api.com/${bible.book}+${bible.chap}:${bible.verse}-${bible.verse+1}?verse_numbers=true`)
       .then((response) => response.json())
       .then((data) => setBibleResolve(data.verses[0].text))
       .catch(() => console.log('bad bible news'))
