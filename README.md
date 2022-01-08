@@ -1,4 +1,3 @@
-I wanted to make a website that would
-provide a random Kanye West quote from 
-an API and then use that quote to generate 
-a random passage from the bible. 
+Website fetches a random Kanye West quote from 
+api.kanye.rest and then uses that quote
+to fetch a random passage from the bible. 
