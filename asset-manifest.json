@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/KanyeBibleProject/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/KanyeBibleProject/static/js/main.6cfe4554.chunk.js",
-    "main.js.map": "/KanyeBibleProject/static/js/main.6cfe4554.chunk.js.map",
+    "main.css": "/KanyeBibleProject/static/css/main.bb8c7683.chunk.css",
+    "main.js": "/KanyeBibleProject/static/js/main.6fdc7d3c.chunk.js",
+    "main.js.map": "/KanyeBibleProject/static/js/main.6fdc7d3c.chunk.js.map",
     "runtime-main.js": "/KanyeBibleProject/static/js/runtime-main.5b94c6db.js",
     "runtime-main.js.map": "/KanyeBibleProject/static/js/runtime-main.5b94c6db.js.map",
     "static/js/2.3e64ece8.chunk.js": "/KanyeBibleProject/static/js/2.3e64ece8.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2408dbc8.chunk.js": "/KanyeBibleProject/static/js/3.2408dbc8.chunk.js",
     "static/js/3.2408dbc8.chunk.js.map": "/KanyeBibleProject/static/js/3.2408dbc8.chunk.js.map",
     "index.html": "/KanyeBibleProject/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/KanyeBibleProject/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.bb8c7683.chunk.css.map": "/KanyeBibleProject/static/css/main.bb8c7683.chunk.css.map",
     "static/js/2.3e64ece8.chunk.js.LICENSE.txt": "/KanyeBibleProject/static/js/2.3e64ece8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b94c6db.js",
     "static/js/2.3e64ece8.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6cfe4554.chunk.js"
+    "static/css/main.bb8c7683.chunk.css",
+    "static/js/main.6fdc7d3c.chunk.js"
   ]
 }
